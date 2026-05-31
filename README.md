@@ -11,7 +11,7 @@ Welcome to my GitHub repository! I completed an internship in Python Development
 
 ### Clone The Repo From Github 
 
-    git clone 
+    gh repo clone alliyashwanthreddy/shadowfox-python-internship
 
 ### Traverse Into The ShadowFox Directory
 
